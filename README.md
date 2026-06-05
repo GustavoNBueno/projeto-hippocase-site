@@ -1,7 +1,7 @@
 # HippoCase Store - Site Institucional
 
 ## Integrantes
-- João Vitor Dias Girotto
+- Gustavo Bueno
 
 ## Descrição do projeto
 Este projeto consiste em um site estático desenvolvido para a HippoCase Store, uma loja fictícia/institucional voltada para capinhas personalizadas, películas e acessórios para celulares.
