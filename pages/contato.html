@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HippoCase Store | Contato</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <header class="cabecalho-interno">
+        <nav class="navbar">
+            <a href="../index.html" class="logo-area">
+                <img src="../images/logo.png" alt="Logo HippoCase Store">
+                <span>HippoCase Store</span>
+            </a>
+
+            <ul class="menu">
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </nav>
+
+        <div class="titulo-pagina">
+            <h1>Contato</h1>
+            <p>Envie sua mensagem ou solicite um orçamento.</p>
+        </div>
+    </header>
+
+    <main>
+        <section class="secao contato-layout">
+            <div class="contato-info">
+                <h2>Informações</h2>
+                <p>Entre em contato para saber mais sobre modelos, acessórios e personalização.</p>
+
+                <ul class="lista-beneficios">
+                    <li>WhatsApp: (11) 92100-2773</li>
+                    <li>Instagram: @hippocasestore</li>
+                    <li>Atendimento presencial e online</li>
+                </ul>
+            </div>
+
+            <form class="formulario" id="form-contato">
+                <label for="nome">Nome</label>
+                <input type="text" id="nome" name="nome" placeholder="Digite seu nome" required>
+
+                <label for="email">E-mail</label>
+                <input type="email" id="email" name="email" placeholder="Digite seu e-mail" required>
+
+                <label for="assunto">Assunto</label>
+                <select id="assunto" name="assunto">
+                    <option value="capinha">Capinha personalizada</option>
+                    <option value="pelicula">Película</option>
+                    <option value="acessorios">Acessórios</option>
+                    <option value="outro">Outro assunto</option>
+                </select>
+
+                <label for="mensagem">Mensagem</label>
+                <textarea id="mensagem" name="mensagem" rows="5" placeholder="Escreva sua mensagem" required></textarea>
+
+                <button type="submit" class="botao">Enviar mensagem</button>
+                <p id="retorno-formulario" class="retorno"></p>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 HippoCase Store. Projeto acadêmico desenvolvido com HTML5 e CSS3.</p>
+    </footer>
+
+    <script src="../js/script.js"></script>
+</body>
+</html>
