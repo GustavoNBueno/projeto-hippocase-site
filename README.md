@@ -67,13 +67,3 @@ https://gustavonbueno.github.io/projeto-hippocase-site/
 1. Baixe ou clone este repositório.
 2. Abra o arquivo `index.html` no navegador.
 3. Navegue pelas páginas Home, Sobre e Contato.
-
-## Sugestão de commits
-```bash
-git add .
-git commit -m "Cria estrutura inicial do projeto"
-git commit -m "Adiciona páginas HTML do site"
-git commit -m "Adiciona estilos responsivos com CSS"
-git commit -m "Adiciona interação no formulário com JavaScript"
-git commit -m "Finaliza README do projeto"
-```
