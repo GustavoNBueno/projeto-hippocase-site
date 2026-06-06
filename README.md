@@ -54,20 +54,14 @@ projeto-hippocase-site/
 
 ## Prints do projeto
 Adicionar aqui os prints das páginas do site após abrir no navegador.
+<img width="1901" height="980" alt="image" src="https://github.com/user-attachments/assets/b22d3b8c-3e8b-413f-8fd0-75e404b337f5" />
+<img width="1904" height="991" alt="image" src="https://github.com/user-attachments/assets/f4351b38-7e81-467c-8414-35614fad7150" />
 
-Exemplo:
-```text
-images/print-home.png
-images/print-sobre.png
-images/print-contato.png
-```
 
 ## GitHub Pages
 Link do projeto publicado:
 
-```text
-Adicionar o link aqui após publicar no GitHub Pages.
-```
+https://gustavonbueno.github.io/projeto-hippocase-site/
 
 ## Como executar o projeto
 1. Baixe ou clone este repositório.
