@@ -1,7 +1,8 @@
 # HippoCase Store - Site Institucional
 
 ## Integrantes
-- Gustavo Bueno
+- Gustavo Norkaitis Bueno
+- RA: 2210325
 
 ## Descrição do projeto
 Este projeto consiste em um site estático desenvolvido para a HippoCase Store, uma loja fictícia/institucional voltada para capinhas personalizadas, películas e acessórios para celulares.
