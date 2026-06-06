@@ -54,7 +54,7 @@ projeto-hippocase-site/
 - Pequena interação com JavaScript
 
 ## Prints do projeto
-Adicionar aqui os prints das páginas do site após abrir no navegador.
+
 <img width="1901" height="980" alt="image" src="https://github.com/user-attachments/assets/b22d3b8c-3e8b-413f-8fd0-75e404b337f5" />
 <img width="1904" height="991" alt="image" src="https://github.com/user-attachments/assets/f4351b38-7e81-467c-8414-35614fad7150" />
 
